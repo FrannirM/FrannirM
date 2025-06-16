@@ -5,7 +5,7 @@
 ### 👨‍💻 Sobre mí
 - 🧠 Soy desarrollador en formación con foco en **Java** y tecnologías backend.
 - ⚡ Busco crecer rápido para entrar al mundo laboral como **developer junior**.
-- 🥋 Apasionado de las artes marciales, la lógica y construir cosas útiles.
+- 🥋 Apasionado de la lógica y construir cosas útiles.
 - 🔄 En constante práctica y aprendizaje. ¡Esto recién empieza!
 - 💼 Mi objetivo actual: conseguir mi primer trabajo como programador y darlo todo 💪.
 
