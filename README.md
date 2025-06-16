@@ -41,7 +41,7 @@
 
 ### 📬 ¡Vamos a conectarnos!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/TU-USUARIO-AQUÍ](https://www.linkedin.com/in/franco-emanuel-martinez-360748230/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/franco-emanuel-martinez-360748230/])
 - 📧 Email: francomartinezkrs@gmail.com
 - 🧠 Proyectos en este perfil y siempre sumando más.
 
